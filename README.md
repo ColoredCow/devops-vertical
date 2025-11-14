@@ -208,4 +208,3 @@ If you are someone who enjoys:
 then you will enjoy working here.
 
 Welcome — we’re building something meaningful.
-
