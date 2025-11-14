@@ -70,6 +70,7 @@ Example:
 
 git add submissions/Himanshu-Sharma/assignment.md
 git commit -m "Add Himanshu Sharma DevOps assignment submission"
+git push
 
 We prefer clean, descriptive commit messages.
 
