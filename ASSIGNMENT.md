@@ -110,7 +110,7 @@ List any questions you have for us that will help you understand the role better
 
 # 📬 How to Submit
 
-Please follow the steps in **CONTRIBUTING.md**  
+Please follow the steps in **[CONTRIBUTING.md](CONTRIBUTING.md)**  
 (TL;DR: Fork → Create a folder with your name → Add a markdown file with your answers → Submit a PR)
 
 ---
