@@ -86,7 +86,7 @@ Early DevOps engineers will:
 - Help create systems, processes, and culture  
 
 Read the full expectations here:  
-👉 **[EXPECTATIONS.md] (EXPECTATIONS.md)**
+👉 **[EXPECTATIONS.md](EXPECTATIONS.md)**
 
 ---
 
