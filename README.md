@@ -133,12 +133,33 @@ Assignment file:
 
 If you’re going through our evaluation:
 
-1. Read **[VISION.md](VISION.md)**  
-2. Review **[ROADMAP.md])(ROADMAP.md)** to understand direction  
-3. Read through case studies  
-4. Complete the DevOps assignment  
-5. Submit your work as described in **[CONTRIBUTING.md](CONTRIBUTING.md)**  
-6. Use GitHub Issues to share your approach or ask clarifying questions
+## 📚 How Candidates and Contributors Should Use This Repository
+
+This section guides you through exploring, contributing, and understanding our DevOps vertical.
+
+### 1. Read the Vision and Roadmap
+- Check out [VISION.md](VISION.md) for our long-term goals and principles.  
+- Review [ROADMAP.md](ROADMAP.md) for a high-level plan of our DevOps vertical development.
+
+### 2. Explore Case Studies
+- Review [PUBLIC_CASE_STUDIES.md](PUBLIC_CASE_STUDIES.md) to understand our past work and the kind of impact we aim to create.  
+- Notice how early DevOps team members not only execute but also help establish marketing, sales, and best practices.
+
+### 3. Understand Our Philosophy
+- Read [PHILOSOPHY.md](PHILOSOPHY.md) to learn about our culture, T-shaped engineers, and entrepreneurial mindset.  
+
+### 4. Follow Contribution Guidelines
+- General contribution process (branching, pull requests, etc.) is detailed in [CONTRIBUTING.md](CONTRIBUTING.md).  
+- For DevOps-specific contributions, case studies, and assignments, follow [GUIDELINES.md](GUIDELINES.md).  
+- These ensure your work demonstrates ownership, clear communication, and alignment with our philosophy.
+
+### 5. Assignments & Hands-On Work
+- Candidates can find their evaluation tasks in [ASSIGNMENT.md](ASSIGNMENT.md).  
+- **Remember:** our evaluation is conversation-led, not examination-led — we want to see **how you think**, not just which tools you know.
+
+### 6. Use Issues to Share Your Thinking
+- Ask clarifying questions or discuss your approach using GitHub issues.  
+- Transparency, clarity, and proactive communication are highly valued.
 
 We care deeply about:
 
@@ -166,6 +187,14 @@ This outlines:
 - How to propose improvements  
 
 ---
+### Case Studies & DevOps Contributions
+
+For all DevOps-related contributions, including case studies, assignment solutions, or example repositories, please follow the **[DevOps Contribution Guidelines](GUIDELINES.md)**.  
+
+This ensures submissions demonstrate:
+- Ownership and problem-solving  
+- Clear, business-focused communication  
+- Alignment with our DevOps philosophy and entrepreneurial approach
 
 ## 🗂 Public Project Board
 
